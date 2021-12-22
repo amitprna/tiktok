@@ -8,9 +8,6 @@ from helpers import process_results
 import pandas as pd
 # Import sys dependency to extract command line arguments
 import sys
-import nest_asyncio
-
-nest_asyncio.apply()
 
 def get_data(hashtag):
     # Get cookie data
