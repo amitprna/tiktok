@@ -1,2 +1,2 @@
 plotly
-TikTokApi
+TikTokApi==4.1.0
