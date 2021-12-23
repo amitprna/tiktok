@@ -56,4 +56,4 @@ websockets==10.1
 Werkzeug==2.0.2
 wsproto==1.0.0
 plotly
-subprocess
+subprocess.run
