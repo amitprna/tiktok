@@ -57,3 +57,6 @@ Werkzeug==2.0.2
 wsproto==1.0.0
 plotly
 subprocess.run
+panda
+streamlit
+helpers
