@@ -59,3 +59,4 @@ plotly
 subprocess.run
 panda
 helpers
+chromedriver-py
