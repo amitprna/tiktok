@@ -2,4 +2,3 @@ TikTokAPi
 playwright
 streamlit==0.75.0
 plotly
-streamlit
